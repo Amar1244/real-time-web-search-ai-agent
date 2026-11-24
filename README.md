@@ -34,7 +34,7 @@ Generative AI · AI agents · LLM · ReAct agent · Tool calling · Real-time we
 
 ## Author
 
-**Amar Chaurasiya**, open to full-time roles and freelance work.
+**Amar Chaurasiya**, Data Scientist and AI Engineer.
 
 - Email: [amarchaurasiya124@gmail.com](mailto:amarchaurasiya124@gmail.com)
 - LinkedIn: [amar-chaurasiya-163788262](https://www.linkedin.com/in/amar-chaurasiya-163788262)
