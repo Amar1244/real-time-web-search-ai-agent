@@ -13,6 +13,10 @@ Type a question and the agent decides which tool to use:
 
 For example: *"When was the last SpaceX launch, and how many days ago was that?"* The agent searches for the launch date, checks today's date, and calculates the difference.
 
+## Keywords
+
+Generative AI · AI agents · LLM · ReAct agent · Tool calling · Real-time web search · Chatbot · LangChain · Google Gemini · Tavily · Streamlit · Python
+
 ## Tech Stack
 
 - Python
