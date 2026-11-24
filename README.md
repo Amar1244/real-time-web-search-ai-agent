@@ -25,29 +25,6 @@ Generative AI · AI agents · LLM · ReAct agent · Tool calling · Real-time we
 - [Tavily Search](https://tavily.com/) for web search
 - [Streamlit](https://streamlit.io/) for the UI
 
-## Run Locally
-
-1. Clone the repo and install dependencies:
-
-   ```bash
-   git clone https://github.com/Amar1244/real-time-web-search-ai-agent.git
-   cd real-time-web-search-ai-agent
-   pip install -r requirements.txt
-   ```
-
-2. Create a `.env` file with your API keys:
-
-   ```env
-   GOOGLE_API_KEY=your_google_gemini_key
-   TAVILY_API_KEY=your_tavily_key
-   ```
-
-3. Start the app:
-
-   ```bash
-   streamlit run app.py
-   ```
-
 ## Project Structure
 
 | File | Purpose |
